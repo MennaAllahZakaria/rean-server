@@ -12,7 +12,6 @@
   "license": "ISC",
   "description": "",
   "dependencies": {
-    "auth_project": "file:",
     "bcrypt": "^5.1.1",
     "bcryptjs": "^2.4.3",
     "cookie-parser": "^1.4.7",
@@ -28,7 +27,6 @@
     "nodemon": "^3.1.7"
   },
   "engines": {
-  "node": ">=14.x"
-}
-
+    "node": ">=14.x"
+  }
 }
